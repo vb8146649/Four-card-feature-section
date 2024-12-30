@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github_link](https://your-solution-url.com)
-- Live Site URL: [live-site](https://your-live-site-url.com)
+- Solution URL: [github_link](https://github.com/vb8146649/Four-card-feature-section.git)
+- Live Site URL: [live-site](https://vb8146649.github.io/Four-card-feature-section/)
 
 ## My process
 
@@ -44,6 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Vishal](https://vb8146649.github.io/portfolio/)
+- Frontend Mentor - [@vb8146649](https://www.frontendmentor.io/profile/vb8146649)
 
